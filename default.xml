@@ -6,7 +6,7 @@
   <default revision="refs/heads/master" remote="github" sync-j="4" />
 
 
-  <project name="tinyap/tiny9" remote="github.com" />
+  <project name="tinyap/tiny9" remote="github" />
 
 
 </manifest>

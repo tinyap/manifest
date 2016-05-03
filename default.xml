@@ -5,8 +5,7 @@
   <remote name="github" fetch="https://github.com/" />
   <default revision="refs/heads/master" remote="github" sync-j="4" />
 
-
-  <project name="tinyap/tiny9" remote="github" />
-
+  <project name="tinyap/tiny9" path="tiny9" remote="github" />
+  <project name="mariusae/pingrf" path="pingrf" remote="github" />
 
 </manifest>
